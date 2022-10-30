@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 arquivo 01 sem alteração
+=======
+arquivo 01
+
+alteração na branch ramo01
+>>>>>>> ramo01
