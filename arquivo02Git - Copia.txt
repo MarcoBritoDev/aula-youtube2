@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 versão erro 
+=======
+ramificação na maquina 
+versão 2, ramo 01
+>>>>>>> ramo01
